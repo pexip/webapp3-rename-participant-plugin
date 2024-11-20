@@ -45,35 +45,7 @@ The applied name will be shown in participant list
   the host clicks the "Rename Participant" entry in the participant action menu, a
   modal appears. The new name can be provided and will be set to the related
   patient.
-
-  ## How to use
-
-  A additional entry appears in the participant action menu in participant list.
-
-  <div align='center'>
-
-  ![add cart video button](./docs/images/participant_action.png)
-
-  </div>
-
-  This item opens a dialog to rename to participant.
-
-  <div align='center'>
-
-  ![select department](./docs/images/rename_participant.png)
-
-  </div>
-
-  Provide the new name and click rename.
-
-  <div align='center'>
-
-  ![select department](./docs/images/renamed_participant.png)
-
-  </div>
-
-  The applied name will be shown in participant list
-
+ 
   ## Limitations
 
   - Currently entries in participant menu do not support icons when added by
