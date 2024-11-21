@@ -1,4 +1,4 @@
-# Web App 3 Plugin: Rename Participant Plugin
+# Web App 3 Plugin: Rename Participant
 
 This plugin allows hosts to rename participants in the participant list. When
 the host clicks the "Rename Participant" entry in the participant action menu, a
